@@ -10,7 +10,7 @@ Adujunto una imagen del diagrama UML creado para este proyecto.
 
 Para ejecutar
 ```
-cd '.\Proyecto Modelado y Programcion\src\'
+cd '.\ProyectoModeladoProgramcion\src\'
 
 Compilar: javac -cp "lib/jdom-2.0.6/jdom-2.0.6.jar" *.java
 Ejecutar: java -cp .:"lib/jdom-2.0.6/jdom-2.0.6.jar" Main
