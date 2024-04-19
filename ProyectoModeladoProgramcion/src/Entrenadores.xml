@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bd>
+<bd id="Entrenadores.xml" elementos="4">
+  <entrenador nombre="Gaelinho" contrasena="123" mejorRecord="4" />
+  <entrenador nombre="Pedro" contrasena="456" mejorRecord="0" />
+  <entrenador nombre="Andres" contrasena="789" mejorRecord="2" />
+  <entrenador nombre="Juan" contrasena="777" mejorRecord="3" />
+</bd>

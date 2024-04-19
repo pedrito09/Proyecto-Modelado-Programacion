@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bd>
+<bd id="Pokedex.xml" elementos="21">
+    <pokemon nombre="Torterra" tipo="Planta" vida="450" ataque="120" defensa="60" velocidad="18" />
+    <pokemon nombre="Slowking" tipo="Agua" vida="500" ataque="90" defensa="60" velocidad="20" />
+    <pokemon nombre="Infernape" tipo="Fuego" vida="500" ataque="90" defensa="60" velocidad="30" />
+    <pokemon nombre="Eldegoss" tipo="Planta" vida="300" ataque="140"  defensa="65" velocidad="19" />
+    <pokemon nombre="Tangela" tipo="Planta" vida="650" ataque="80" defensa="60" velocidad="20" />
+    <pokemon nombre="Centiskorch" tipo="Fuego" vida="500" ataque="100" defensa="50" velocidad="30" />
+    <pokemon nombre="Squirtle" tipo="Agua" vida="550" ataque="100" defensa="60" velocidad="30" />
+    <pokemon nombre="Charmander" tipo="Fuego" vida="570" ataque="120" defensa="30" velocidad="35" />
+    <pokemon nombre="Kabuto" tipo="Agua" vida="350" ataque="160" defensa="50" velocidad="25" />
+    <pokemon nombre="Gogoat" tipo="Planta" vida="500" ataque="110" defensa="50" velocidad="30" />
+    <pokemon nombre="Bulbasur" tipo="Planta" vida="300" ataque="150" defensa="50" velocidad="25" />
+    <pokemon nombre="Entei" tipo="Fuego" vida="450" ataque="120" defensa="60" velocidad="10" />
+    <pokemon nombre="Lurantis" tipo="Planta" vida="500" ataque="100" defensa="50" velocidad="30" />
+    <pokemon nombre="Kingler" tipo="Agua" vida="700" ataque="120" defensa="30" velocidad="35" />
+    <pokemon nombre="Rapidash" tipo="Fuego" vida="400" ataque="100" defensa="70" velocidad="22" />
+    <pokemon nombre="Slugma" tipo="Fuego" vida="500" ataque="100" defensa="50" velocidad="15" />
+    <pokemon nombre="Tentacruel" tipo="Agua" vida="550" ataque="100" defensa="50" velocidad="25" />
+    <pokemon nombre="Piplun" tipo="Agua" vida="550" ataque="100" defensa="65" velocidad="40" />
+    <pokemon nombre="Sunkern" tipo="Planta" vida="500" ataque="110" defensa="50" velocidad="22" />
+    <pokemon nombre="Emboar" tipo="Fuego" vida="400" ataque="150" defensa="25" velocidad="20" />
+    <pokemon nombre="Magikarp" tipo="Agua" vida="600" ataque="140" defensa="20" velocidad="15" />
+</bd>
